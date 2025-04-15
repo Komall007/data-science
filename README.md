@@ -1,7 +1,3 @@
-Absolutely, Komal! Here's an upgraded version of the `README.md` for your Iris dataset EDA project — more detailed, polished, and with a professional touch:
-
----
-
 # 🌸 Exploratory Data Analysis on the Iris Dataset
 
 Welcome to this data exploration project based on the **Iris dataset**, one of the most famous datasets in the field of pattern recognition and machine learning. This project dives deep into understanding the dataset through insightful visualizations and statistical analysis.
